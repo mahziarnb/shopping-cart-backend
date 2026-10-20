@@ -1,0 +1,12 @@
+{
+  "name": "shopping-cart-zero-dep-backend",
+  "version": "1.0.0",
+  "description": "Zero-dependency Node.js CRUD backend for Shopping Cart app",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
